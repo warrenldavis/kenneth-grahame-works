@@ -1,4 +1,4 @@
-# the-wind-in-the-willows
+# kenneth-grahame-works
 Works by Kenneth Grahame that were appreciated by Tolkien
 
 
