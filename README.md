@@ -19,4 +19,4 @@ The Reluctant Dragon (1898)
 
 Work in Process:
 
-[raw/](/RAW) - Includes the raw files downloaded from their specifed source
+[raw](raw/) - Includes the raw files downloaded from their specifed source
