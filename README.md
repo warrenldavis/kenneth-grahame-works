@@ -4,7 +4,7 @@ Works by Kenneth Grahame that were appreciated by Tolkien
 
 The Wind in the Willows (1908) 
 [Gutenberg](www.gutenberg.org/ebooks/27805)
-[Wikipedia](https://en.wikipedia.org/wiki/The_Wind_in_the_Willows))  
+[Wikipedia](https://en.wikipedia.org/wiki/The_Wind_in_the_Willows)  
 
 
 
