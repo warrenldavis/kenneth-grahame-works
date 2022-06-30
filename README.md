@@ -23,4 +23,4 @@ Work in Process:
 
 - [text](text/)/ - Includes the cleaned up text files
 
--  - Inclues XML versions of each work marked up
+- [xml](text/)/ - Inclues XML versions of each work marked up
