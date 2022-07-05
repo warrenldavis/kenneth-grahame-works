@@ -1,5 +1,11 @@
-﻿The Wind in the Willows
-
+﻿ <header>
+    <title>The Wind in the Willows</title>
+    <author>Kenneth Grahame</author>
+    <publication-year>1908</publication-year>
+  </header>
+    <body>
+        <div type="chapter" n="1">
+         <head>THE RIVER BANK</head>
 I.
 THE RIVER BANK
 
@@ -480,9 +486,9 @@ moved onward. He learnt to swim and to row, and entered into the joy of
 running water; and with his ear to the reed-stems he caught, at
 intervals, something of what the wind went whispering so constantly
 among them.
-
-
-
+        </div>
+        <div type="chapter" n="2">
+         <head>THE OPEN ROAD</head>
 
 II.
 THE OPEN ROAD
@@ -942,8 +948,9 @@ find him. “Heard the news?” he said. “There’s nothing else being talked
 about, all along the river bank. Toad went up to Town by an early train
 this morning. And he has ordered a large and very expensive motor-car.”
 
-
-
+        </div>
+        <div type="chapter" n="3">
+         <head>THE WILD WOOD</head>
 
 III.
 THE WILD WOOD
@@ -1411,7 +1418,9 @@ While the Rat attacked the door with his stick, the Mole sprang up at
 the bell-pull, clutched it and swung there, both feet well off the
 ground, and from quite a long way off they could faintly hear a
 deep-toned bell respond.
-
+        </div>
+        <div type="chapter" n="4">
+         <head>MR. BADGER</head>
 
 
 
@@ -1881,8 +1890,9 @@ Nature in the rough; he must be wise, must keep to the pleasant places
 in which his lines were laid and which held adventure enough, in their
 way, to last for a lifetime.
 
-
-
+        </div>
+        <div type="chapter" n="5">
+         <head>DULCE DOMUM</head>
 
 V.
 DULCE DOMUM
@@ -2421,8 +2431,9 @@ to come back to; this place which was all his own, these things which
 were so glad to see him again and could always be counted upon for the
 same simple welcome.
 
-
-
+        </div>
+        <div type="chapter" n="6">
+         <head>MR. TOAD</head>
 
 VI.
 MR. TOAD
@@ -2910,8 +2921,9 @@ clanged behind them; and Toad was a helpless prisoner in the remotest
 dungeon of the best-guarded keep of the stoutest castle in all the
 length and breadth of Merry England.
 
-
-
+        </div>
+        <div type="chapter" n="7">
+         <head>THE PIPER AT THE GATES OF DAWN</head>
 
 VII.
 THE PIPER AT THE GATES OF DAWN
@@ -3295,6 +3307,9 @@ But no answer came. He looked, and understood the silence. With a smile
 of much happiness on his face, and something of a listening look still
 lingering there, the weary Rat was fast asleep.
 
+        </div>
+        <div type="chapter" n="8">
+         <head>TOAD’S ADVENTURES</head>
 
 
 
@@ -3772,8 +3787,9 @@ anything. At last, cold, hungry, and tired out, he sought the shelter
 of a hollow tree, where with branches and dead leaves he made himself
 as comfortable a bed as he could, and slept soundly till the morning.
 
-
-
+        </div>
+        <div type="chapter" n="9">
+         <head>WAYFARERS ALL</head>
 
 IX.
 WAYFARERS ALL
@@ -4359,7 +4375,9 @@ scribbling and sucking the top of his pencil. It is true that he sucked
 a good deal more than he scribbled; but it was joy to the Mole to know
 that the cure had at least begun.
 
-
+        </div>
+        <div type="chapter" n="10">
+         <head>THE FURTHER ADVENTURES OF TOAD</head>
 
 
 X.
@@ -4980,7 +4998,9 @@ Grave and round, with neat ears and silky hair.
 
 It was the Water Rat!
 
-
+        </div>
+        <div type="chapter" n="11">
+         <head>“LIKE SUMMER TEMPESTS CAME HIS TEARS”</head>
 
 
 XI.
@@ -5625,8 +5645,9 @@ ten-minutes-afterwards. Those are always the best and the raciest
 adventures; and why should they not be truly ours, as much as the
 somewhat inadequate things that really come off?
 
-
-
+        </div>
+        <div type="chapter" n="12">
+         <head>THE RETURN OF ULYSSES</head>
 
 XII.
 THE RETURN OF ULYSSES
@@ -6122,3 +6143,7 @@ would quiet them by telling how, if they didn’t hush them and not fret
 them, the terrible grey Badger would up and get them. This was a base
 libel on Badger, who, though he cared little about Society, was rather
 fond of children; but it never failed to have its full effect.
+        </div>
+    </body>
+
+
