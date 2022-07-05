@@ -1,8 +1,8 @@
-﻿ <header></p>\n     <p>
-    <title>The Wind in the Willows</title>
-    <author>Kenneth Grahame</author>
-    <publication-year>1908</publication-year>
-  </header>
+﻿    <header>
+     <title>The Wind in the Willows</title>
+     <author>Kenneth Grahame</author>
+     <publication-year>1908</publication-year>
+    </header>
     <body>
         <div type="chapter" n="1">
          <head>I. THE RIVER BANK</head>
