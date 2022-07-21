@@ -408,7 +408,9 @@ your head is under water. At last they implored him to go away and
 attend to his own affairs and leave them to mind theirs. So the <persName>Rat</persName>
 went away, and sat on the river bank in the sun, and made up a song
 about them, which he called</p>
-     <p>“DUCKS’ DITTY.”</p>
+     <lg>
+      <l>“DUCKS’ DITTY.”</l>
+      </lg>
      <lg>
       <l>All along the backwater,</l>
       <l>Through the rushes tall,</l>
@@ -1912,7 +1914,9 @@ air, singing one of the old-time carols that their forefathers composed
 in fields that were fallow and held by frost, or when snow-bound in
 chimney corners, and handed down to be sung in the miry street to
 lamp-lit windows at Yule-time.</p>
-    <p>CAROL</p>
+    <lg>
+     <l>CAROL</l>
+    </lg>
     <lg>
      <l>Villagers all, this frosty tide,</l>
      <l>Let your doors swing open wide,</l>
