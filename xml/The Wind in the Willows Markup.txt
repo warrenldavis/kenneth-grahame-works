@@ -1,4 +1,19 @@
-﻿    <header>
+﻿    <TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Wind in the Willow Markup</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>This file was encoded by Warren L. Davis on July 31, 2022 as part of the Digital Text class offered by signum University in Summer 2022.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>The Project Gutenberg eBook of The Wind in the Willows, by Kenneth Graham</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>    
+    <text>
+    <header>
      <title>The Wind in the Willows</title>
      <author>Kenneth Grahame</author>
      <publication-year>1908</publication-year>
@@ -438,7 +453,7 @@ about them, which he called</p>
      <lg>
       <l>High in the blue above</l>
       <l>Swifts whirl and call—</l>
-      <l>We are down a-dabbling<l>
+      <l>We are down a-dabbling</l>
       <l>Uptails all!</l>
      </lg>
      <p>“I don’t know that I think so _very_ much of that little song, <persName>Rat</persName>,”
@@ -5015,7 +5030,7 @@ what a career of triumph he had to tell about; and on the fly-leaf he
 would set out a sort of a programme of entertainment for the
 evening—something like this, as he sketched it out in his head:—</p>
      <lg>
-      <l>SPEECH. . . . BY TOAD.<l>
+      <l>SPEECH. . . . BY TOAD.</l>
       <l>(There will be other speeches by TOAD during the evening.)</l>
      </lg>
      <lg>
@@ -5210,3 +5225,5 @@ libel on <persName>Badger</persName>, who, though he cared little about Society,
 fond of children; but it never failed to have its full effect.</p>
         </div>
     </body>
+    </text>
+    </TEI>
