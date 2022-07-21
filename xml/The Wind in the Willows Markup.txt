@@ -409,28 +409,37 @@ attend to his own affairs and leave them to mind theirs. So the <persName>Rat</p
 went away, and sat on the river bank in the sun, and made up a song
 about them, which he called</p>
      <p>“DUCKS’ DITTY.”</p>
-     <p>All along the backwater,
-Through the rushes tall,
-Ducks are a-dabbling,
-Up tails all!
-Ducks’ tails, drakes’ tails,
-Yellow feet a-quiver,
-Yellow bills all out of sight
-Busy in the river!</p>
-     <p>Slushy green undergrowth
-Where the roach swim—
-Here we keep our larder,
-Cool and full and dim.</p>
-     <p>Everyone for what he likes!
-_We_ like to be
-Heads down, tails up,
-Dabbling free!</p>
-     <p>High in the blue above
-Swifts whirl and call—
-_We_ are down a-dabbling
-Uptails all!</p>
-     <p>
-“I don’t know that I think so _very_ much of that little song, <persName>Rat</persName>,”
+     <lg>
+      <l>All along the backwater,</l>
+      <l>Through the rushes tall,</l>
+      <l>Ducks are a-dabbling,</l>
+      <l>Up tails all!</l>
+     </lg>
+     <lg>
+      <l>Ducks’ tails, drakes’ tails,</l>
+      <l>Yellow feet a-quiver,</l>
+      <l>Yellow bills all out of sight</l>
+      <l>Busy in the river!</l>
+     </lg>
+     <lg>
+      <l>Slushy green undergrowth</l>
+      <l>Where the roach swim—</l>
+      <l>Here we keep our larder,</l>
+      <l>Cool and full and dim.</l>
+     </lg>
+     <lg>
+      <l>Everyone for what he likes!</l>
+      <l>We like to be</l>
+      <l>Heads down, tails up,</l>
+      <l>Dabbling free!</l>
+     </lg>
+     <lg>
+      <l>High in the blue above</l>
+      <l>Swifts whirl and call—</l>
+      <l>We are down a-dabbling<l>
+      <l>Uptails all!</l>
+     </lg>
+     <p>“I don’t know that I think so _very_ much of that little song, <persName>Rat</persName>,”
 observed the <persName>Mole</persName> cautiously. He was no poet himself and didn’t care
 who knew it; and he had a candid nature.</p>
      <p>“Nor don’t the ducks neither,” replied the <persName>Rat</persName> cheerfully. “They say,
@@ -1140,8 +1149,7 @@ little door, painted a dark green. An iron bell-pull hung by the side,
 and below it, on a small brass plate, neatly engraved in square capital
 letters, they could read by the aid of moonlight</p>
      <p>MR. BADGER.</p>
-     <p>
-The <persName>Mole</persName> fell backwards on the snow from sheer surprise and delight.
+     <p>  The <persName>Mole</persName> fell backwards on the snow from sheer surprise and delight.
 “Rat!” he cried in penitence, “you’re a wonder! A real wonder, that’s
 what you are. I see it all now! You argued it out, step by step, in
 that wise head of yours, from the very moment that I fell and cut my
@@ -1904,34 +1912,43 @@ air, singing one of the old-time carols that their forefathers composed
 in fields that were fallow and held by frost, or when snow-bound in
 chimney corners, and handed down to be sung in the miry street to
 lamp-lit windows at Yule-time.</p>
-     <p>CAROL</p>
-     <p>Villagers all, this frosty tide,
-Let your doors swing open wide,
-Though wind may follow, and snow beside,
-Yet draw us in by your fire to bide;
-    Joy shall be yours in the morning!</p>
-     <p>Here we stand in the cold and the sleet,
-Blowing fingers and stamping feet,
-Come from far away you to greet—
-You by the fire and we in the street—
-    Bidding you joy in the morning!</p>
-     <p>For ere one half of the night was gone,
-Sudden a star has led us on,
-Raining bliss and benison—
-Bliss to-morrow and more anon,
-    Joy for every morning!</p>
-     <p>Goodman Joseph toiled through the snow—
-Saw the star o’er a stable low;
-Mary she might not further go—
-Welcome thatch, and litter below!
-    Joy was hers in the morning!</p>
-     <p>And then they heard the angels tell
-“Who were the first to cry _Nowell?_
-Animals all, as it befell,
-In the stable where they did dwell!
-    Joy shall be theirs in the morning!”</p>
-     <p>
-The voices ceased, the singers, bashful but smiling, exchanged sidelong
+    <p>CAROL</p>
+    <lg>
+     <l>Villagers all, this frosty tide,</l>
+     <l>Let your doors swing open wide,</l>
+     <l>Though wind may follow, and snow beside,</l>
+     <l>Yet draw us in by your fire to bide;</l>
+     <l>Joy shall be yours in the morning!</l>
+    </lg>
+    <lg>
+     <l>Here we stand in the cold and the sleet,</l>
+     <l>Blowing fingers and stamping feet,</l>
+     <l>Come from far away you to greet—</l>
+     <l>You by the fire and we in the street—</l>
+     <l>Bidding you joy in the morning!</l>
+    </lg>
+    <lg>
+     <l>For ere one half of the night was gone,</l>
+     <l>Sudden a star has led us on,</l>
+     <l>Raining bliss and benison—</l>
+     <l>Bliss to-morrow and more anon,</l>
+     <l>Joy for every morning!</l>
+    </lg>
+    <lg>
+     <l>Goodman Joseph toiled through the snow—</l>
+     <l>Saw the star o’er a stable low;</l>
+     <l>Mary she might not further go—</l>
+     <l>Welcome thatch, and litter below!</l>
+     <l>Joy was hers in the morning!</l>
+    </lg>
+    <lg>
+     <l>And then they heard the angels tell</l>
+     <l>“Who were the first to cry _Nowell?</l>
+     <l>Animals all, as it befell,</l>
+     <l>In the stable where they did dwell!</l>
+     <l>Joy shall be theirs in the morning!”</l>
+    </lg>
+     <p>The voices ceased, the singers, bashful but smiling, exchanged sidelong
 glances, and silence succeeded—but for a moment only. Then, from up
 above and far away, down the tunnel they had so lately travelled was
 borne to their ears in a faint musical hum the sound of distant bells
@@ -4020,28 +4037,37 @@ puffed up with conceit that he made up a song as he walked in praise of
 himself, and sang it at the top of his voice, though there was no one
 to hear it but him. It was perhaps the most conceited song that any
 animal ever composed.</p>
-     <p>“The world has held great Heroes,
-    As history-books have showed;
-But never a name to go down to fame
-    Compared with that of <persName>Toad</persName>!</p>
-     <p>“The clever men at Oxford
-    Know all that there is to be knowed.
-But they none of them know one half as much
-    As intelligent <persName>Mr. Toad</persName>!</p>
-     <p>“The animals sat in the Ark and cried,
-    Their tears in torrents flowed.
-Who was it said, ‘There’s land ahead?’
-    Encouraging <persName>Mr. Toad</persName>!</p>
-     <p>“The army all saluted
-    As they marched along the road.
-Was it the King? Or Kitchener?
-    No. It was <persName>Mr. Toad</persName>.</p>
-     <p>“The Queen and her Ladies-in-waiting
-    Sat at the window and sewed.
-She cried, ‘Look! who’s that _handsome_ man?’
-    They answered, ‘<persName>Mr. Toad</persName>.’”</p>
-     <p>
-There was a great deal more of the same sort, but too dreadfully
+     <lg>
+      <l>“The world has held great Heroes,</l>
+      <l>As history-books have showed;</l>
+      <l>But never a name to go down to fame</l>
+      <l>Compared with that of <persName>Toad</persName>!</l>
+    </lg>
+    <lg>
+     <l>“The clever men at Oxford</l>
+     <l>Know all that there is to be knowed.</l>
+     <l>But they none of them know one half as much</l>
+     <l>As intelligent <persName>Mr. Toad</persName>!</l>
+    </lg>
+    <lg>
+     <l>“The animals sat in the Ark and cried,</l>
+     <l>Their tears in torrents flowed.</l>
+     <l>Who was it said, ‘There’s land ahead?’</l>
+     <l>Encouraging <persName>Mr. Toad</persName>!</l>
+    </lg>
+    <lg>
+     <l>“The army all saluted</l>
+     <l>As they marched along the road.</l>
+     <l>Was it the King? Or Kitchener?</l>
+     <l>No. It was <persName>Mr. Toad</persName>.</l>
+    </lg>
+    <lg>
+     <l>“The Queen and her Ladies-in-waiting</l>
+     <l>Sat at the window and sewed.</l>
+     <l>She cried, ‘Look! who’s that _handsome_ man?’</l>
+     <l>They answered, ‘<persName>Mr. Toad</persName>.’”</l>
+    </lg>
+     <p>There was a great deal more of the same sort, but too dreadfully
 conceited to be written down. These are some of the milder verses.</p>
      <p>He sang as he walked, and he walked as he sang, and got more inflated
 every minute. But his pride was shortly to have a severe fall.</p>
@@ -4161,12 +4187,13 @@ the air, leaving the narrow-minded, grudging, timid excursionists in
 the mud where they should rightly be? Why, <persName>Toad</persName>, of course; clever
 <persName>Toad</persName>, great <persName>Toad</persName>, _good_ <persName>Toad</persName>!”</p>
      <p>Then he burst into song again, and chanted with uplifted voice—</p>
-     <p>“The motor-car went Poop-poop-poop,
-    As it raced along the road.
-Who was it steered it into a pond?
-    Ingenious <persName>Mr. Toad</persName>!</p>
-     <p>
-O, how clever I am! How clever, how clever, how very clev——”</p>
+     <lg>
+      <l>“The motor-car went Poop-poop-poop,</l>
+      <l>As it raced along the road.</l>
+      <l>Who was it steered it into a pond?</l>
+      <l>Ingenious <persName>Mr. Toad</persName>!</l>
+    </lg>
+     <p>O, how clever I am! How clever, how clever, how very clev——”</p>
      <p>A slight noise at a distance behind him made him turn his head and
 look. O horror! O misery! O despair!</p>
      <p>About two fields off, a chauffeur in his leather gaiters and two large
@@ -4825,10 +4852,11 @@ _honest_ <persName>Toad</persName>!” (shrieks of merriment).</p>
      <p>“—Let me sing you a little song,” went on the voice, “which I have
 composed on the subject of Toad”—(prolonged applause).</p>
      <p>Then the Chief Weasel—for it was he—began in a high, squeaky voice—</p>
-     <p>“Toad he went a-pleasuring
-Gaily down the street—”</p>
-     <p>
-The <persName>Badger</persName> drew himself up, took a firm grip of his stick with both
+     <lg>
+      <l>“Toad he went a-pleasuring</l>
+      <l>Gaily down the street—”</l>
+     </lg>
+     <p>The <persName>Badger</persName> drew himself up, took a firm grip of his stick with both
 paws, glanced round at his comrades, and cried—</p>
      <p>“The hour is come! Follow me!”</p>
      <p>And flung the door open wide.</p>
@@ -4982,16 +5010,24 @@ laid the Chief Weasel flat; and he would hint at his adventures, and
 what a career of triumph he had to tell about; and on the fly-leaf he
 would set out a sort of a programme of entertainment for the
 evening—something like this, as he sketched it out in his head:—</p>
-     <p>SPEECH. . . . BY TOAD.
-(There will be other speeches by TOAD during the evening.)</p>
-     <p>ADDRESS. . . BY TOAD
-SYNOPSIS—Our Prison System—the Waterways of Old England—Horse-dealing,
+     <lg>
+      <l>SPEECH. . . . BY TOAD.<l>
+      <l>(There will be other speeches by TOAD during the evening.)</l>
+     </lg>
+     <lg>
+      <l>ADDRESS. . . BY TOAD</l>
+      <l>SYNOPSIS—Our Prison System—the Waterways of Old England—Horse-dealing,
 and how to deal—Property, its rights and its duties—Back to the Land—A
-Typical English Squire.</p>
-     <p>SONG. . . . BY TOAD.
-(Composed by himself.)</p>
-     <p>OTHER COMPOSITIONS. BY TOAD
-will be sung in the course of the evening by the. . . COMPOSER.</p>
+Typical English Squire.</l>
+     </lg>
+      <lg>
+      <l>SONG. . . . BY TOAD.</l>
+      <l>(Composed by himself.)</l>
+     </lg>
+     <lg>
+      <l>OTHER COMPOSITIONS. BY TOAD</l>
+      <l>will be sung in the course of the evening by the. . . COMPOSER.</l>
+     </lg>
      <p>The idea pleased him mightily, and he worked very hard and got all the
 letters finished by noon, at which hour it was reported to him that
 there was a small and rather bedraggled weasel at the door, inquiring
@@ -5074,23 +5110,33 @@ arranged them in a semicircle, and took up his position in front of
 them, swelling visibly. Then he bowed, coughed twice, and, letting
 himself go, with uplifted voice he sang, to the enraptured audience
 that his imagination so clearly saw.</p>
-     <p>TOAD’S LAST LITTLE SONG!</p>
-     <p>The Toad—came—home!
-There was panic in the parlours and howling in the halls,
-There was crying in the cow-sheds and shrieking in the stalls,
-When the Toad—came—home!</p>
-     <p>When the Toad—came—home!
-There was smashing in of window and crashing in of door,
-There was chivvying of weasels that fainted on the floor,
-When the Toad—came—home!</p>
-     <p>Bang! go the drums!
-The trumpeters are tooting and the soldiers are saluting,
-And the cannon they are shooting and the motor-cars are hooting,
-As the—Hero—comes!</p>
-     <p>Shout—Hoo-ray!
-And let each one of the crowd try and shout it very loud,
-In honour of an animal of whom you’re justly proud,
-For it’s Toad’s—great—day!</p>
+     <lg>
+      <l>TOAD’S LAST LITTLE SONG!</l>
+     </lg>
+     <lg>
+      <l>The Toad—came—home!</l>
+      <l>There was panic in the parlours and howling in the halls,</l>
+      <l>There was crying in the cow-sheds and shrieking in the stalls,</l>
+      <l>When the Toad—came—home!</l>
+     </lg>
+     <lg>
+      <l>When the Toad—came—home!</l>
+      <l>There was smashing in of window and crashing in of door,</l>
+      <l>There was chivvying of weasels that fainted on the floor,</l>
+      <l>When the Toad—came—home!</l>
+     </lg>
+     <lg>
+      <l>Bang! go the drums!</l>
+      <l>The trumpeters are tooting and the soldiers are saluting,</l>
+      <l>And the cannon they are shooting and the motor-cars are hooting,</l>
+      <l>As the—Hero—comes!</l>
+     </lg>
+     <lg>
+      <l>Shout—Hoo-ray!</l>
+      <l>And let each one of the crowd try and shout it very loud,</l>
+      <l>In honour of an animal of whom you’re justly proud,</l>
+      <l>For it’s Toad’s—great—day!</l>
+     </lg>
      <p>He sang this very loud, with great unction and expression; and when he
 had done, he sang it all over again.</p>
      <p>Then he heaved a deep sigh; a long, long, long sigh.</p>
